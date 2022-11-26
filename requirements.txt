@@ -1,0 +1,2 @@
+requests==2.25.1
+jsonschema==4.17.1
